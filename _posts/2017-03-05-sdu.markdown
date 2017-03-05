@@ -1,0 +1,8 @@
+---
+layout: default
+img: sdu-overview.png
+category: Services
+title: Secure Device Update (SDU) Library 
+description: |
+---
+  The SDU library is an embedded software library for secure device updates over Bluetooth BLE.  Read more about it on [the project website](https://trellis-logic.github.io/sdu/).

@@ -2,15 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+url: http://www.trellis-logic.com
+title: Trellis-Logic
+email: danwalkes@trellis-logic.com
+author: Dan Walkes
+description: > # "Embedded Software Solutions for Industry and Internet of Things (IoT)
+copyright: 'Copyright &copy; 2017 Trellis-Logic All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +24,14 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    icon: twitter
+    url: https://twitter.com/danwalkes
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    icon: github
+    url: https://github.com/Trellis-Logic
   - title: linkedin
-    url: 
+    icon: linkedin
+    url: https://www.linkedin.com/in/danwalkes 
+  - title: email
+    icon: envelope
+    url: mailto:contact@trellis-logic.com?subject=Website Contact
