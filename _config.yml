@@ -7,7 +7,7 @@ title: Trellis-Logic
 email: danwalkes@trellis-logic.com
 author: Dan Walkes
 description: > # "Embedded Software Solutions for Industry and Internet of Things (IoT)
-copyright: 'Copyright &copy; 2017 Trellis-Logic All Rights Reserved.'
+copyright: 'Copyright &copy; 2025 Trellis-Logic All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -23,15 +23,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    icon: twitter
-    url: https://twitter.com/danwalkes
   - title: github
     icon: github
     url: https://github.com/Trellis-Logic
   - title: linkedin
     icon: linkedin
-    url: https://www.linkedin.com/in/danwalkes 
+    url: https://www.linkedin.com/in/danwalkes
   - title: email
     icon: envelope
     url: mailto:contact@trellis-logic.com?subject=Website Contact
