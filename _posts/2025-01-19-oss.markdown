@@ -1,0 +1,12 @@
+---
+layout: default
+category: Services
+img: laptop-devel.png
+title: Open Source Projects
+description: |
+---
+
+* [meta-aws-iot-demo](https://github.com/Trellis-Logic/meta-aws-iot-demo) a [kas](https://kas.readthedocs.io/en/latest/) yocto project setup demonstrating the use of [AWS IoT](https://aws.amazon.com/iot-core) for software update and secure tunneling.
+* tegra-demo-distro [swupdate OTA software update example](https://github.com/OE4T/tegra-demo-distro/tree/master/layers/meta-tegrademo/dynamic-layers/meta-swupdate) on NVIDIA Jetson platforms.
+* A [collection of minor patches](https://github.com/OE4T/meta-tegra/commits?author=dwalkes) to support meta-tegra, the Yocto reference layer for NVIDIA Jetson platforms.  Assistance with [monthly meeting coordination](https://github.com/orgs/OE4T/discussions/515) and communication/testing of new releases on OE4T and meta-tegra.
+* Updates and maintenance on the [ldd3](https://github.com/cu-ecen-aeld/ldd3) repository and its [parent fork](https://github.com/martinezjavier/ldd3), adding support for recent kernels and supporting the [Linux Device Drivers 3rd Edition](https://lwn.net/Kernel/LDD3/) book.

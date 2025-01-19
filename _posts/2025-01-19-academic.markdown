@@ -1,0 +1,11 @@
+---
+layout: default
+category: Services
+img: AESD-tux-1200-square.png
+title: Academic Projects
+description: |
+---
+Dan serves as a [Lecturer and Scholar of Engineering Practice](https://www.colorado.edu/ecee/dan-walkes) for the [Embedded Systems Engineering](https://www.colorado.edu/ecee/academics/graduate-programs/professional-masters/embedded-systems-engineering-and-internet-things) group at CU Boulder.
+
+He developed the [ECEN 5713](https://sites.google.com/colorado.edu/ecen5713/home) graduate course at CU boulder, which he has taught since 2019.  He’s also developed and currently supports [a Coursera Specialization](https://www.coursera.org/specializations/advanced-embedded-linux-development) based on this content.
+
